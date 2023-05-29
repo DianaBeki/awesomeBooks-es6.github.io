@@ -1,8 +1,36 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 li {
   list-style-type: none;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  margin: 30px 40px;
+}
+
+hr {
+  width: 25%;
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 0 2px;
+}
+
+#addForm #title {
+  padding-left: 4px;
+}
+
+#addForm #author {
+  margin-top: 10px;
+  padding-left: 4px;
 }
