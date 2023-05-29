@@ -1,0 +1,23 @@
+{
+  "name": "awesomebooks-es6.github.io",
+  "version": "1.0.0",
+  "description": "- [:book: About the Project](#about-project)   - [:hammer_and_wrench: Built With](#built-with)     - [Tech Stack](#tech-stack)     - [Key Features](#key-features) - [:computer: Getting Started](#getting-started)   - [Setup](#setup)   - [Prerequisites](#prerequisites)   - [Install](#install)   - [Usage](#usage)   - [Run tests](#run-tests)   - [Project-Presentation](#project-presentation)   - [Live-Demo](#live-demo) - [:busts_in_silhouette: Authors](#authors) - [:telescope: Future Features](#future-features) - [:handshake: Contributing](#contributing) - [:star:️ Show your support](#support) - [:pray: Acknowledgements](#acknowledgements) - [📝 License](#license)",
+  "main": "bookStore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tasnimchy96/awesomeBooks-es6.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tasnimchy96/awesomeBooks-es6.github.io/issues"
+  },
+  "homepage": "https://github.com/tasnimchy96/awesomeBooks-es6.github.io#readme",
+  "devDependencies": {
+    "hint": "^2.0.0"
+  }
+}
