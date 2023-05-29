@@ -88,9 +88,11 @@ No test are available
 - Twitter:[@tasnimchy96](https://twitter.com/tasnimchy96)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tasnim-ahmed-chowdhury-b4504625b)
 
-:bust_in_silhouette: **Kifle**
+:bust_in_silhouette: **Diana Beki**
 
-- GitHub: []()
+- GitHub: [@Github](https://github.com/DianaBeki)
+- Twitter: [@Twitter](https://twitter.com/home)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/diana-beki-b49684230/)
 
 ## :telescope: Future Features
 
