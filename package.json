@@ -6,17 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tasnimchy96/awesomeBooks-es6.github.io.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tasnimchy96/awesomeBooks-es6.github.io/issues"
-  },
-  "homepage": "https://github.com/tasnimchy96/awesomeBooks-es6.github.io#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
