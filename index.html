@@ -8,16 +8,56 @@
     <link rel="stylesheet" href="./bookStore.css" />
   </head>
   <body>
-    <h2>All awesome books</h2>
-    <table id="bookList"></table>
-    <hr />
-    <h2>Add a new book</h2>
-    <form id="addForm">
-      <input type="text" placeholder="Title" id="title" required />
-      <input type="text" placeholder="Author" id="author" required />
-      <button type="submit">Add</button>
-    </form>
+    <header>
+      <a href="" class="logo">Awesome Books</a>
+      <nav>
+        <ul>
+          <li class="right-border"><a href="#list-info" id="list">List</a></li>
+          <li class="right-border">
+            <a href="#ad-new-info" id="add-new">Add New</a>
+          </li>
+          <li><a href="#contact-info" id="contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <div class="date-time">
+      <p id="date-time"></p>
+    </div>
+
+    <section class="list" id="list-info">
+      <h1>All awesome books</h1>
+      <table id="bookList"></table>
+    </section>
+
+    <section class="add-new" id="add-new-info">
+      <h1>Add a new book</h1>
+      <form id="addForm">
+        <input type="text" placeholder="Title" id="title" required />
+        <input type="text" placeholder="Author" id="author" required />
+        <button type="submit">Add</button>
+      </form>
+    </section>
+
+    <section class="contact" id="contact-info">
+      <h1>Contact Information</h1>
+      <p>
+        Do you have any questions or you just want to say "Hello"? <br />
+        You can reach out to us!
+      </p>
+      <ul class="contact-info">
+        <li>Our email: tasnim.achy96@gmail.com</li>
+        <li>Our phone number: +8801621693614</li>
+        <li>Our address: Sylhet, Bangladesh</li>
+      </ul>
+    </section>
+
+    <footer>
+      <p>Copyright @TasnimAhmedChowdhury</p>
+    </footer>
 
     <script src="./bookStore.js"></script>
+    <script src="./navigation.js"></script>
+    <script src="./dateTime.js"></script>
   </body>
 </html>
