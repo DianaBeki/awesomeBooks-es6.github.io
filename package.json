@@ -1,0 +1,23 @@
+{
+  "name": "awesomebooks-es6.github.io",
+  "version": "1.0.0",
+  "description": "- [:book: About the Project](#about-project)   - [:hammer_and_wrench: Built With](#built-with)     - [Tech Stack](#tech-stack)     - [Key Features](#key-features) - [:computer: Getting Started](#getting-started)   - [Setup](#setup)   - [Prerequisites](#prerequisites)   - [Install](#install)   - [Usage](#usage)   - [Run tests](#run-tests)   - [Project-Presentation](#project-presentation)   - [Live-Demo](#live-demo) - [:busts_in_silhouette: Authors](#authors) - [:telescope: Future Features](#future-features) - [:handshake: Contributing](#contributing) - [:star:️ Show your support](#support) - [:pray: Acknowledgements](#acknowledgements) - [📝 License](#license)",
+  "main": "bookStore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.27.5",
+    "hint": "^7.1.8",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
