@@ -43,6 +43,6 @@ class BookCollection {
   }
 }
 
-const bookStore = new BookCollection();
+const bookCollection = new BookCollection();
 
-bookStore();
+bookCollection();

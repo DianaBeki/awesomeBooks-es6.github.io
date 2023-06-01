@@ -10,7 +10,6 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Project-Presentation](#project-presentation)
   - [Live-Demo](#live-demo)
 - [:busts_in_silhouette: Authors](#authors)
 - [:telescope: Future Features](#future-features)
@@ -53,8 +52,8 @@ Open Terminal & Clone this repository to your desired folder:
 
 ```sh
 cd <path-to-the-folder>
-git clone https://github.com/tasnimchy96/bookStore.github.io.git
-cd bookStore.github.io.git
+git clone https://github.com/tasnimchy96/awesomeBooks-es6.github.io
+cd awesomeBooks-es6.github.io
 code .
 ```
 ### Install
@@ -62,19 +61,19 @@ code .
 Install this project using the cloned repo or download and use the files to your local machine.
 
 ```sh
-cd <path-to-the-cloned-repo>
-code .
+npm install
 ```
 ### Usage
 
-To run the project open the index.html file in your web browser or you can also open live server from the IDE.
-
+```usage
+- To run the project open the index.html file in your web browser or you can also open live server from the IDE.💯
+```
 ### Run tests
 
-No test are available
-
-### Project-Presentation
-- We will add it later.
+```test
+npx hint .
+npx eslint .
+```
 
 ### :rocket: Live-Demo
 
