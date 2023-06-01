@@ -10,7 +10,6 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Project-Presentation](#project-presentation)
   - [Live-Demo](#live-demo)
 - [:busts_in_silhouette: Authors](#authors)
 - [:telescope: Future Features](#future-features)
@@ -75,8 +74,6 @@ npm install
 npx hint .
 npx eslint .
 ```
-### Project-Presentation
-- We will add it later.
 
 ### :rocket: Live-Demo
 
