@@ -53,8 +53,8 @@ Open Terminal & Clone this repository to your desired folder:
 
 ```sh
 cd <path-to-the-folder>
-git clone https://github.com/tasnimchy96/bookStore.github.io.git
-cd bookStore.github.io.git
+git clone https://github.com/tasnimchy96/awesomeBooks-es6.github.io
+cd awesomeBooks-es6.github.io
 code .
 ```
 ### Install
@@ -67,12 +67,15 @@ code .
 ```
 ### Usage
 
-To run the project open the index.html file in your web browser or you can also open live server from the IDE.
-
+```usage
+- To run the project open the index.html file in your web browser or you can also open live server from the IDE.💯
+```
 ### Run tests
 
-No test are available
-
+```test
+npx hint .
+npx eslint .
+```
 ### Project-Presentation
 - We will add it later.
 
