@@ -62,8 +62,7 @@ code .
 Install this project using the cloned repo or download and use the files to your local machine.
 
 ```sh
-cd <path-to-the-cloned-repo>
-code .
+npm install
 ```
 ### Usage
 
